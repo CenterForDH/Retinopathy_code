@@ -1,1 +1,1 @@
-# Prediction of retinopathy by diabetic patients within 3 years
+# Prediction of retinopathy in diabetic patients within three years
