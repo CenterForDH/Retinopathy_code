@@ -1,1 +1,1 @@
-# Prediction of retinopathy in diabetic patients within three years
+# Machine-learning code of prediction of retinopathy in diabetic patients within three years
